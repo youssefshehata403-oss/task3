@@ -1,0 +1,7 @@
+Gene	Control	Treated	Fold_Change	Mean_Expression	Classification
+BRCA1	5.2	8.9	1.71153846153846	7.05	upregulated
+TP53	7.8	7.6	0.974358974358974	7.7	stable
+EGFR	3.1	6.7	2.16129032258065	4.9	upregulated
+MYC	9.4	12.1	1.28723404255319	10.75	upregulated
+PTEN	6	2.3	0.383333333333333	4.15	downregulated
+KRAS	4.5	9.8	2.17777777777778	7.15	upregulated
